@@ -1,0 +1,2 @@
+# le script doit garder des fins de ligne Linux, sinon bash refuse de le lancer
+*.sh text eol=lf
